@@ -1,8 +1,8 @@
-# test-api
+# messeger-api
 
 ## Information
 
-test-api is a little message service to implement easely between a company and customers.
+messeger-api is a little message service to implement easely between a company and customers.
 
 
 
